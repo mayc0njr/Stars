@@ -13,8 +13,9 @@ Just a Black background with "Stars" passing. (12/2016)
  
  
  java Space Width Height
- 
+ - - - - - - - - - - - - - - - -
  Example:
  
  java Space "Stars in Space" 1366 768
+ 
  java Space 1366 768
