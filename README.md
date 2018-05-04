@@ -4,6 +4,7 @@ Just a Black background with "Stars" passing. (12/2016)
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  
   To compile and run...
+  Require Java 8.
  
  javac Space.java (Doesn't have any package in it).
  
